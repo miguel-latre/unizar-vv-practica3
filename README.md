@@ -20,12 +20,12 @@ contenido de las citadas obras. Los ficheros
 originales descargados, que incluyen metadatos e información de
 licencia, se encuentran en el directorio ``src/main/res/originalesProjectGutenberg``.
 
-Detalles sobre sus términos de uso pueden encontrarse también en 
-https://www.gutenberg.org/wiki/Gutenberg:Terms_of_Use.
+Detalles sobre sus términos de uso pueden encontrarse también en
+https://www.gutenberg.org/policy/permission.html.
 En particular:
 
 > _Th[ese] eBook[s are] for the use of anyone anywhere at no cost and with
 > almost no restrictions whatsoever.  You may copy [them], give [them] away or
 > re-use [them] under the terms of the Project Gutenberg License included
-> with th[ese] eBook[s] or online at www.gutenberg.net._ 
+> with th[ese] eBook[s] or online at www.gutenberg.org._ 
 

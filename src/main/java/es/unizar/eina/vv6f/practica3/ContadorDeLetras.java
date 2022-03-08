@@ -9,7 +9,7 @@ import java.io.FileNotFoundException;
  * la clase File que representa el fichero de texto que se quiere analizar. La primera invocación al
  * método frecuencias() analiza el contenido del fichero de texto y, si se ha podido procesar,
  * devuelve un vector de siempre 27 componentes de tipo entero. Las primeras 26 componentes
- * almacenan el número de apariciones de las 26 letras del alfabeto inglés. La última componente,
+ * almacenan el número de apariciones de las 26 letras del alfabeto inglés. La última componente
  * almacena el número de apariciones de la letra Ñ.
  *
  * No se distingue entre mayúsculas y minúsculas. En español, la letra Ñ es una letra distinta a la
