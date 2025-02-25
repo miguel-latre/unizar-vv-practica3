@@ -33,7 +33,7 @@ public class ContadorDeLetras {
     }
 
     /**
-     * Si no ha sido analizado ya, analiza el contenido del fichero de texto asociado a este
+     * La primera vez que este método es invocado, analiza el contenido del fichero de texto asociado a este
      * objeto en el constructor. Devuelve un vector de 27 componentes con las frecuencias
      * absolutas de aparición de cada letra del alfabeto español en el fichero.
      *
