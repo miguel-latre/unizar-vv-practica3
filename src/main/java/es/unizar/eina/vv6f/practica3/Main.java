@@ -6,7 +6,6 @@ package es.unizar.eina.vv6f.practica3;
  * las letras del alfabeto español y el número de veces que dicha letra aparece en el fichero
  * introducido. En caso contrario, escribe en la salida estándar un mensaje de error de la forma
  * «El fichero 'f' no existe.», donde 'f' es el nombre de fichero introducido por el usuario.
- * 
  * No se distingue entre mayúsculas y minúsculas. La letra Ñ es una letra en español. El resto de
  * apariciones de letras voladas y caracteres con diacríticos (acentos agudos, graves, diéresis y
  * cedillas), se consideran como ocurrencias de la letra correspondiente sin diacríticos.
@@ -21,7 +20,6 @@ public class Main {
      * de las letras del alfabeto español y el número de veces que dicha letra aparece en el fichero
      * introducido. En caso contrario, escribe en la salida estándar un mensaje de error de la forma
      * «El fichero 'f' no existe.», donde 'f' es el nombre de fichero introducido por el usuario.
-     *
      * No se distingue entre mayúsculas y minúsculas. La letra Ñ es una letra en español. El resto
      * de apariciones de letras voladas y caracteres con diacríticos (acentos agudos, graves,
      * diéresis y cedillas), se consideran como ocurrencias de la letra correspondiente sin

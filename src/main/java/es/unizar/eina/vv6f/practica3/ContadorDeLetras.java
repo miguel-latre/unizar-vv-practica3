@@ -11,7 +11,6 @@ import java.io.FileNotFoundException;
  * devuelve un vector de siempre 27 componentes de tipo entero. Las primeras 26 componentes
  * almacenan el número de apariciones de las 26 letras del alfabeto inglés. La última componente
  * almacena el número de apariciones de la letra Ñ.
- *
  * No se distingue entre mayúsculas y minúsculas. En español, la letra Ñ es una letra distinta a la
  * N. El resto de apariciones de letras voladas y caracteres con diacríticos (acentos agudos,
  * graves, diéresis, cedillas), se consideran como ocurrencias de la letra correspondiente sin
@@ -40,7 +39,7 @@ public class ContadorDeLetras {
      * @return vector de 27 componentes de tipo entero. Las primeras 26 componentes almacenan el
      *         número de apariciones de las 26 letras del alfabeto inglés: la componente indexada
      *         por 0 almacena el número de apariciones de la letra A, la componente indexada por 1,
-     *         el de la letra B y así sucesivamente. La última componente, almacena el número de
+     *         el de la letra B y así sucesivamente. La última componente almacena el número de
      *         apariciones de la letra Ñ.
      * @throws FileNotFoundException
      *             si el fichero de texto que se especificó al construir este objeto no existe o no
